@@ -1,0 +1,119 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "SearchHounds" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - heading "SearchHounds" [level=1] [ref=e6]:
+        - img [ref=e7]
+        - text: SearchHounds
+  - article [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: mealexpress.com
+          - generic [ref=e18]: is parked free, courtesy of Godaddy.com
+        - link "Get This Domain" [ref=e19] [cursor=pointer]:
+          - /url: https://www.godaddy.com/domainsearch/find?key=parkweb&utm_source=godaddy&utm_medium=parkedpages&utm_campaign=x_dom-broker_parkedpages_x_x_invest_a_001&tmskey=dpp_dbs&domainToCheck=mealexpress.com&isc=GPPTCOM&itc=parkedpage_landers
+      - generic [ref=e20]:
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - generic [ref=e25]:
+              - img [ref=e26]
+              - text: By Staff Writer
+              - button "Author information" [ref=e28] [cursor=pointer]:
+                - img [ref=e29]
+              - text: "| 2025-06-15"
+            - 'heading "Gjelina: California Cool in Venice Beach" [level=1] [ref=e31]'
+          - generic [ref=e32]:
+            - paragraph [ref=e33]: Since opening its doors on Abbot Kinney Boulevard, Gjelina has become a Venice Beach institution and a symbol of Los Angeles' laid-back, ingredient-driven dining scene. Known for its wood-fired pizzas, seasonal small plates, and bustling, rustic-chic atmosphere, Gjelina draws crowds from breakfast to late night.
+            - iframe [ref=e35]:
+              - region [ref=f4e2]:
+                - generic [ref=f4e4]:
+                  - generic [ref=f4e6]: Related searches
+                  - link "Venice Beach Restaurants Open" [ref=f4e8] [cursor=pointer]:
+                    - /url: https://www.searchhounds.com/search.html?src_url=https://www.searchhounds.com/articles/gjelina-california-cool-in-venice-beach.html?psystem%3DPW%26domain%3Dmealexpress.com&query=Venice+Beach+Restaurants+Open&rsToken=ChMIvOWeqPqekgMVBk1sBh12hS76EmcBlLqpj9_OrhCQT8unTSPRWYcW9hHwwzkDPNlGFX-KpzqmQ4_SacF4dVEJ3EN1lPJiO9jC3Clwjn5wCDLCXOFR0UmjM9GHv9g_qvCxEcZEFr3_vJlN4z8fk1h4-7Q8b3qOUmAK8FmdIAMyNQGxUlSqVHEloHj85YgAB-nnvsq17_TWP8GF-q4Tan7UqUS0HzOIWtFjG2bl6agUWbyhJZ3m&nb=0&rurl=https%3A%2F%2Fmealexpress.com%2F&nm=9
+                    - generic [ref=f4e13]: Venice Beach Restaurants Open
+                  - link "Venice Beach Dining" [ref=f4e16] [cursor=pointer]:
+                    - /url: https://www.searchhounds.com/search.html?src_url=https://www.searchhounds.com/articles/gjelina-california-cool-in-venice-beach.html?psystem%3DPW%26domain%3Dmealexpress.com&query=Venice+Beach+Dining&rsToken=ChMIvOWeqPqekgMVBk1sBh12hS76EmcBlLqpj8dPNZcqCuwt3qplIiAm5GVaXDunN7c2jVVxULU31gQyILaJmBMyAT5_xz1Hx2efmOhJXxsMW4qXVh9HPdc2bn8Nt_BJM_tb01np0-0u3YSYXO-XCdaLxOFIaAXTFEXKytCIIAMyNQGxUlSq0UXqBSiHk6nsRBapsCEBFbSJlS6fb_HfEID201yb4tuajsg8dwBc-3eIvk3GR5wO&nb=0&rurl=https%3A%2F%2Fmealexpress.com%2F&nm=5
+                    - generic [ref=f4e21]: Venice Beach Dining
+                  - link "Gjelina Menu" [ref=f4e24] [cursor=pointer]:
+                    - /url: https://www.searchhounds.com/search.html?src_url=https://www.searchhounds.com/articles/gjelina-california-cool-in-venice-beach.html?psystem%3DPW%26domain%3Dmealexpress.com&query=Gjelina+Menu&rsToken=ChMIvOWeqPqekgMVBk1sBh12hS76EmYBlLqpj0jHLFU_gZMZFY3cA8LkSLWrTzgG8byxTlVHFPgrCAmsO269IgrD8JOtRpm2CcesbTe9eTFkm3_jV1L0Ahiyvjsvk3y6efRiQeHhUmLv7vv7JpdvWRsOqAWRxYD5C-1eMa8gAzI1AbFSVKrcRLci1QfP9eMHFARpLWxKmBsEWnEGhar6gKSCG4yb5ReLg0Gqz3CmXP4FoANpT9M&nb=0&rurl=https%3A%2F%2Fmealexpress.com%2F&nm=5
+                    - generic [ref=f4e29]: Gjelina Menu
+                  - link "Soul Food Restaurant on 120th and Halsted" [ref=f4e32] [cursor=pointer]:
+                    - /url: https://www.searchhounds.com/search.html?src_url=https://www.searchhounds.com/articles/gjelina-california-cool-in-venice-beach.html?psystem%3DPW%26domain%3Dmealexpress.com&query=Soul+Food+Restaurant+on+120th+and+Halsted&rsToken=ChMIvOWeqPqekgMVBk1sBh12hS76EmYBlLqpj35x3MCK85LPvhQEit8cww-8AXhf4isY5xBkAPy70hPZf8EtDSNf76BSW1SoV5IsbkvfSfO1RbzZ_4z5Z12i1fT5Cn1G35NOzYtdZgnOTOoEsPEcmolhK53CHNo_XSWtbyAgAzI1AbFSVKq9R72dOHOcZaL0DPZ9SHC2a7yCxWYAOSxgiLIigr_sN1PLa7qrqLyL2b-9l-3yhEg&nb=0&rurl=https%3A%2F%2Fmealexpress.com%2F&nm=5
+                    - generic [ref=f4e37]: Soul Food Restaurant on 120th and Halsted
+                  - link "California Food Trends" [ref=f4e40] [cursor=pointer]:
+                    - /url: https://www.searchhounds.com/search.html?src_url=https://www.searchhounds.com/articles/gjelina-california-cool-in-venice-beach.html?psystem%3DPW%26domain%3Dmealexpress.com&query=California+Food+Trends&rsToken=ChMIvOWeqPqekgMVBk1sBh12hS76EmcBlLqpj6QP_lga9T2AJ9qqKJZMqv7D2D3YvOCyKG6lfReAkeHSbKfnnEPW1ONAadTO_6Hp66oVpCYXjgEQT2vcHOk4-GUbxraU5wRQS3OcVpg_0xvpPlE5q6qYV9-QEwigzfcWWt6ZIAMyNQGxUlSqzDJ9sx0pWfCRI6T962NucNCHsFgkf0h1q37QJNplR0-ctt30mo3CnogEjqNIRCGZ&nb=0&rurl=https%3A%2F%2Fmealexpress.com%2F&nm=5
+                    - generic [ref=f4e45]: California Food Trends
+                  - link "Gjelina Restaurant" [ref=f4e48] [cursor=pointer]:
+                    - /url: https://www.searchhounds.com/search.html?src_url=https://www.searchhounds.com/articles/gjelina-california-cool-in-venice-beach.html?psystem%3DPW%26domain%3Dmealexpress.com&query=Gjelina+Restaurant&rsToken=ChMIvOWeqPqekgMVBk1sBh12hS76EmcBlLqpj-sXU_QR3GDmxErjUZXx8JHMh2FDcrivPY1n24vA0_-6_VdZKp3rE8XyzEuiAnpdNcsaZOfhcMGmYGwWvWuEtnOC3q3N9mmZrM4A2h56iTnWnWQqmsuekKEXMw7u1x7cZhRXIAMyNQGxUlSqsGHWPaAzWWj3FIti_bPjfVEXyp2ifHaKRcEskfkFSYdmSUaIt580Ac03d3_NV4Hh&nb=0&rurl=https%3A%2F%2Fmealexpress.com%2F&nm=5
+                    - generic [ref=f4e53]: Gjelina Restaurant
+            - paragraph [ref=e36]: The menu is an ever-changing celebration of local California produce, with simple preparations that let flavors shine. Communal tables and a lively patio make every meal a social affair, while the kitchen's focus on sustainability and quality keeps food lovers coming back.
+            - paragraph [ref=e37]: Whether you're stopping in for a leisurely brunch, a vegetable-forward feast, or just a great pizza, Gjelina offers a quintessential taste of modern California cuisine in the heart of Venice.
+        - generic [ref=e39]:
+          - heading "Search" [level=3] [ref=e40]
+          - generic [ref=e41]:
+            - textbox "What are you looking for?" [ref=e43]
+            - button "Search" [ref=e44] [cursor=pointer]
+  - contentinfo [ref=e45]:
+    - generic [ref=e46]:
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - link "SearchHounds" [ref=e49] [cursor=pointer]:
+            - /url: /
+            - heading "SearchHounds" [level=3] [ref=e50]:
+              - img [ref=e51]
+              - text: SearchHounds
+          - paragraph [ref=e54]: Your comprehensive search directory for finding the best resources across multiple industries and topics.
+        - generic [ref=e55]:
+          - heading "Topics" [level=4] [ref=e56]
+          - list [ref=e57]:
+            - listitem [ref=e58]:
+              - link "Arts, Entertainment & Media" [ref=e59] [cursor=pointer]:
+                - /url: /topics/artsentertainment.html
+            - listitem [ref=e60]:
+              - link "Automotive & DMV Services" [ref=e61] [cursor=pointer]:
+                - /url: /topics/automotive.html
+            - listitem [ref=e62]:
+              - link "Education & Professional Development" [ref=e63] [cursor=pointer]:
+                - /url: /topics/education.html
+            - listitem [ref=e64]:
+              - link "Personal Finance & Money Management" [ref=e65] [cursor=pointer]:
+                - /url: /topics/finance.html
+            - listitem [ref=e66]:
+              - link "Food & Dining" [ref=e67] [cursor=pointer]:
+                - /url: /topics/foodanddining.html
+            - listitem [ref=e68]:
+              - link "Genealogy & Family History" [ref=e69] [cursor=pointer]:
+                - /url: /topics/genealogy.html
+            - listitem [ref=e70]:
+              - link "Industrial & Materials" [ref=e71] [cursor=pointer]:
+                - /url: /topics/industrial.html
+            - listitem [ref=e72]:
+              - link "Insurance Planning & Coverage Guide" [ref=e73] [cursor=pointer]:
+                - /url: /topics/insurance.html
+            - listitem [ref=e74]:
+              - link "Investment Strategies & Portfolio Management" [ref=e75] [cursor=pointer]:
+                - /url: /topics/investments.html
+            - listitem [ref=e76]:
+              - link "Medical & Healthcare Guide" [ref=e77] [cursor=pointer]:
+                - /url: /topics/medicalhealthcare.html
+            - listitem [ref=e78]:
+              - link "Real Estate Guide & Market Insights" [ref=e79] [cursor=pointer]:
+                - /url: /topics/realestate.html
+            - listitem [ref=e80]:
+              - link "Shopping & Consumer Guides" [ref=e81] [cursor=pointer]:
+                - /url: /topics/shopping.html
+            - listitem [ref=e82]:
+              - link "Amazing Travel Destinations" [ref=e83] [cursor=pointer]:
+                - /url: /topics/travel.html
+        - generic [ref=e84]:
+          - heading "Company" [level=4] [ref=e85]
+          - list [ref=e86]:
+            - listitem [ref=e87]:
+              - link "Privacy Policy" [ref=e88] [cursor=pointer]:
+                - /url: https://www.godaddy.com/agreements/showdoc?pageid=PRIVACY
+      - paragraph [ref=e90]: © 2026 SearchHounds. All rights reserved. | A comprehensive search directory platform.
+```
